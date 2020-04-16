@@ -1,4 +1,5 @@
-/usr/bin/env sh
+git update-index --chmod=+x .../tesh.sh
+#!/usr/bin/env sh
 
 echo 'The following "npm" command (if executed) installs the "cross-env"'
 echo 'dependency into the local "node_modules" directory, which will ultimately'
