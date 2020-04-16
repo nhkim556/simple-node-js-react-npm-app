@@ -14,7 +14,7 @@ pipeline {
                 sh 'yarn install'
             }
         }
-        stage('TEST'){
+        stage('Test'){
             steps {
                 sh './jenkins/scripts/test.sh'
             }
