@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/nhkim556/simple-node-js-react-npm-app.git",
+  "author": "Nahyun Kim <nhkim@artience.com>",
+  "license": "MIT"
 }
